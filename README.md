@@ -1,2 +1,2 @@
-# Project_5 Webscraping
-We will go over HTML, Beautiful Soup, Twitter's APIs, and PRAW
+# Web_scraping
+This is a walk-through tutorial showing how to scrape from HTML, Twitter APIs, and Reddit's PRAW. This will utilize Python, BeautifulSoup, and Regex.
